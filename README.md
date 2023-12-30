@@ -27,3 +27,6 @@ This app generates a description based on the user provided information.
 - [x] 2. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
 - [ ] 3. Any stylistic changes that are not default options (Comment this here)
 - [x] 4. The data is persistent! Meaning if we rerun the whole app, it will display the last saved first name, last name and school name.
+
+
+This project is for Spring 2024 CodePath iOS Development Application.
